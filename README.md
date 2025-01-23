@@ -29,6 +29,7 @@ Welcome to Steganography, an image steganography project designed to securely em
  # Contributions
     - Aanchal Mittal - xxxchall-17
     - Navya Jain - nxvyx
+    - Antara Srivastava - antarades
 
 
 We welcome contributions! If you have suggestions or would like to report issues, please create a new issue or submit a pull request.
