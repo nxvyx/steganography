@@ -26,7 +26,10 @@ Welcome to Steganography, an image steganography project designed to securely em
     - Ensure you have Python installed (version 3.x).
 
 
-## Contributing
+ # Contributions
+    - Aanchal Mittal - xxxchall-17
+    - Navya Jain - nxvyx
+
 
 We welcome contributions! If you have suggestions or would like to report issues, please create a new issue or submit a pull request.
 
