@@ -1,8 +1,8 @@
-# Steganography
+# StegoShield: Steganography Tool
 
 ## Overview
 
-Welcome to Steganography, an image steganography project designed to securely embed and extract hidden information within digital images. This project employs advanced techniques to ensure covert communication and data protection. Use Steganographia Pro to conceal sensitive information within image files without arousing suspicion.
+Welcome to StegoShield, an image steganography project designed to securely embed and extract hidden information within digital images. This project employs advanced techniques to ensure covert communication and data protection. Use Steganographia Pro to conceal sensitive information within image files without arousing suspicion.
 
 ## Features
 
