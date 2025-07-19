@@ -30,6 +30,7 @@ Welcome to StegoShield, an image steganography project designed to securely embe
     - Aanchal Mittal - xxxchall-17
     - Navya Jain - nxvyx
     - Antara Srivastava - antarades
+    - Ujjwal Singh - UJ2406
 
 
 We welcome contributions! If you have suggestions or would like to report issues, please create a new issue or submit a pull request.
